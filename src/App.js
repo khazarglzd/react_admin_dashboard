@@ -45,7 +45,7 @@ const App = () => {
           </div>
 
           <div>
-              {ThemeSettings && <ThemeSettings />}
+              {/* {ThemeSettings && <ThemeSettings />} */}
 
               <Routes>
                 {/* dashboard  */}
